@@ -22,7 +22,6 @@
       opacity: 0;
   }
 }
-
 /* Estilo del carrusel para evitar que el navbar quede encima */
 .carousel {
   margin-top: 120px; /* Ajusta el margen superior según el tamaño del navbar */
